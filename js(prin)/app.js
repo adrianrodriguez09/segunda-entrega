@@ -50,7 +50,8 @@ habitaciones.forEach(contenido=>{
     <h3>${nombre || "lo sentimos tenemos unos problemas para cargar esta habitacion"}</h3>
     <p>${desc || "lo sentimos estamos teniendo problemas"}</p>
     <p>Tipo: ${tipo || "lo sentimos estamos teniendo problemas para cargar la info"}</p>
-    <p class="precioProducto">Precio:$ ${precio}</p>
+    <p class="precioProducto">Precio por noche:$${precio}</p>
+    <p class="impuestos">El precio es con impuesto incluido</p>
     <button id="agregar${id}" class="boton-agregar">Agregar <i class="fas fa-shopping-cart"></i></button>
 
     `
