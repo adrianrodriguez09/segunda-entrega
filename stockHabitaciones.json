@@ -1,37 +1,37 @@
 [
     {
       "id": 1,
-      "nombre": "habitacion Matrimonial (1)",
+      "nombre": "habitacion Leon-matrimonial",
       "tipo": "Para 2 personas comoda",
       "cantidad": 1,
       "desc": "Una habitacion que cuenta con todas las comodidades para descansar completamente",
       "precio": 39700,
-      "img": "./img/habi1.jpg"
+      "img": "./img/leon.jpg"
     },
     {
       "id": 2,
-      "nombre": "habitacion Matrimonial (2)",
+      "nombre": "habitacion Flor de Genario-Matrimonial",
       "tipo": "Para 2 personas comoda",
       "cantidad": 1,
       "desc": "Una habitacion que cuenta con todas las comodidades para descansar completamente",
       "precio": 39700,
-      "img": "./img/habi2.jpg"
+      "img": "./img/flor.jpg"
     },
     {
       "id": 3,
-      "nombre": "habitacion Single ",
-      "tipo": "Para una sola persona",
+      "nombre": "habitacion Mariposa ",
+      "tipo": "Para mas de una persona",
       "cantidad": 1,
-      "desc": "es una habitacion que cumple con todo y mas.....",
+      "desc": "es una habitacion completa que cuenta con tres camas de una plaza",
       "precio": 31720,
-      "img": "./img/habi3.jpg"
+      "img": "./img/mariposa.jpg"
     },
     {
       "id": 4,
       "nombre": "habitacion Single",
-      "tipo": "Para una sola persona",
+      "tipo": "Para mas de una persona",
       "cantidad": 1,
-      "desc": "es una habitacion que cumple con todo y mas.....",
+      "desc": "es una habitacion que cumple con todo,contiene cinco camas de una plaza",
       "precio": 31720,
       "img": "./img/habi4.jpg"
     }
